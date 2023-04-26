@@ -1,0 +1,742 @@
+[
+  {
+    "name": "Ableiges",
+    "email": "mairie.ableiges95@wanadoo.fr"
+  },
+  {
+    "name": "Aincourt",
+    "email": "mairie.aincourt@wanadoo.fr"
+  },
+  {
+    "name": "Ambleville",
+    "email": "mairie.ambleville@wanadoo.fr"
+  },
+  {
+    "name": "Amenucourt",
+    "email": "mairie.amenucourt@wanadoo.fr"
+  },
+  {
+    "name": "Andilly",
+    "email": "mairie.andilly@wanadoo.fr"
+  },
+  {
+    "name": "Argenteuil",
+    "email": "christian.bournery@ville-argenteuil.fr"
+  },
+  {
+    "name": "Arnouville les gonesse",
+    "email": "webmaster@villedarnouville.com"
+  },
+  {
+    "name": "Arronville",
+    "email": "arronville@wanadoo.fr"
+  },
+  {
+    "name": "Arthies",
+    "email": "mairie-arthies-95@wanadoo.fr"
+  },
+  {
+    "name": "Asnieres sur oise",
+    "email": "herve.pellin@ville-asnieres-sur-oise.fr"
+  },
+  {
+    "name": "Attainville",
+    "email": "mairie@attainville.fr"
+  },
+  {
+    "name": "Auvers sur oise",
+    "email": "communication@auvers-sur-oise.com"
+  },
+  {
+    "name": "Avernes",
+    "email": "mairie.avernes@orange.fr"
+  },
+  {
+    "name": "Baillet en france",
+    "email": "info@baillet-en-france.fr"
+  },
+  {
+    "name": "Banthelu",
+    "email": "mairie.banthelu@wanadoo.fr"
+  },
+  {
+    "name": "Beauchamp",
+    "email": "accueil-mairie@ville-beauchamp.fr"
+  },
+  {
+    "name": "Beaumont sur oise",
+    "email": "beaumont.sg@wanadoo.fr"
+  },
+  {
+    "name": "Bellefontaine",
+    "email": "mairiebellefontaine2@wanadoo.fr"
+  },
+  {
+    "name": "Belloy en france",
+    "email": "secretariat@mairie-belloy-en-france.fr"
+  },
+  {
+    "name": "Bernes sur oise",
+    "email": "mairiebernes@wanadoo.fr"
+  },
+  {
+    "name": "Berville",
+    "email": "mairie.de.berville@wanadoo.fr"
+  },
+  {
+    "name": "Bessancourt",
+    "email": "melody.quesnel@ville-bessancourt.fr"
+  },
+  {
+    "name": "Bethemont la foret",
+    "email": "mairie.bethemont-laforet@wanadoo.fr"
+  },
+  {
+    "name": "Bezons",
+    "email": "courrier@mairie-bezons.fr"
+  },
+  {
+    "name": "Boisemont",
+    "email": "commune.boisemont@wanadoo.fr"
+  },
+  {
+    "name": "Boissy l aillerie",
+    "email": "mairie.boissy-laillerie@wanadoo.fr"
+  },
+  {
+    "name": "Bonneuil en france",
+    "email": "bonneuil-en-france95@orange.fr"
+  },
+  {
+    "name": "Bouffemont",
+    "email": "info@ville-bouffemont.fr"
+  },
+  {
+    "name": "Bouqueval",
+    "email": "mairiebouqueval@wanadoo.fr"
+  },
+  {
+    "name": "Bray et lu",
+    "email": "mairie.brayetlu@wanadoo.fr"
+  },
+  {
+    "name": "Breancon",
+    "email": "mairie.breancon@wanadoo.fr"
+  },
+  {
+    "name": "Brignancourt",
+    "email": "brignancourt@wanadoo.fr"
+  },
+  {
+    "name": "Bruyeres sur oise",
+    "email": "mairie.bruyeres.sur.oise@wanadoo.fr"
+  },
+  {
+    "name": "Buhy",
+    "email": "mairie.buhy@wanadoo.fr"
+  },
+  {
+    "name": "Butry sur oise",
+    "email": "mairiedebutrysuroise@wanadoo.fr"
+  },
+  {
+    "name": "Cergy",
+    "email": "contact@ville-cergy.fr"
+  },
+  {
+    "name": "Champagne sur oise",
+    "email": "cjacqueline@villedechampagne.fr"
+  },
+  {
+    "name": "Charmont",
+    "email": "mairie.charmont@wanadoo.fr"
+  },
+  {
+    "name": "Chars",
+    "email": "mairie.chars@wanadoo.fr"
+  },
+  {
+    "name": "Chatenay en france",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Chaumontel",
+    "email": "mairie.chaumontel@wanadoo.fr"
+  },
+  {
+    "name": "Chaussy",
+    "email": "mairie.chaussy@wanadoo.fr"
+  },
+  {
+    "name": "Chauvry",
+    "email": "mairie.de.chauvry@wanadoo.fr"
+  },
+  {
+    "name": "Chennevieres les louvres",
+    "email": "mairie.chennevieres@wanadoo.fr"
+  },
+  {
+    "name": "Cherence",
+    "email": "mairie.cherence@wanadoo.fr"
+  },
+  {
+    "name": "Clery en vexin",
+    "email": "commune-de-clery@wanadoo.fr"
+  },
+  {
+    "name": "Commeny",
+    "email": "mairiecommeny@wanadoo.fr"
+  },
+  {
+    "name": "Condecourt",
+    "email": "mairie.condecourt@wanadoo.fr"
+  },
+  {
+    "name": "Cormeilles en parisis",
+    "email": "contact@ville-cormeilles95.fr"
+  },
+  {
+    "name": "Cormeilles en vexin",
+    "email": "mairie-cormeillesenvexin@wanadoo.fr"
+  },
+  {
+    "name": "Courcelles sur viosne",
+    "email": "mairie-courcellessurviosne95@wanadoo.fr"
+  },
+  {
+    "name": "Courdimanche",
+    "email": "communication@ville-courdimanche.fr"
+  },
+  {
+    "name": "Deuil la barre",
+    "email": "accueil@mairie-deuillabarre.fr"
+  },
+  {
+    "name": "Domont",
+    "email": "mairiedomont@magic.fr"
+  },
+  {
+    "name": "Eaubonne",
+    "email": "information@eaubonne.fr"
+  },
+  {
+    "name": "Ecouen",
+    "email": "contact@ecouen.fr"
+  },
+  {
+    "name": "Enghien les bains",
+    "email": "direction.generale@enghien95.fr"
+  },
+  {
+    "name": "Ennery",
+    "email": "mairie@ennery.fr"
+  },
+  {
+    "name": "Epiais les louvres",
+    "email": "mairieepiais-leslouvres@wanadoo.fr"
+  },
+  {
+    "name": "Epiais rhus",
+    "email": "mairie.epiais-rhus@wanadoo.fr"
+  },
+  {
+    "name": "Epinay champlatreux",
+    "email": "mairie.ep.champlatreux@wanadoo.fr"
+  },
+  {
+    "name": "Eragny sur oise",
+    "email": "bureauetconseil@eragny.fr"
+  },
+  {
+    "name": "Ermont",
+    "email": "mairie@ville-ermont.fr"
+  },
+  {
+    "name": "Ezanville",
+    "email": "secret.mairie@ezanville.fr"
+  },
+  {
+    "name": "Fontenay en parisis",
+    "email": "mairiefontenay@roissy-online.com"
+  },
+  {
+    "name": "Fosses",
+    "email": "contact@ville-fosses95.fr"
+  },
+  {
+    "name": "Franconville",
+    "email": "Communication@ville-franconville.fr"
+  },
+  {
+    "name": "Fremainville",
+    "email": "fremainville-mairie@wanadoo.fr"
+  },
+  {
+    "name": "Fremecourt",
+    "email": "mairiefremecourt@orange.fr"
+  },
+  {
+    "name": "Frepillon",
+    "email": "mairie@frepillon.fr"
+  },
+  {
+    "name": "Frouville",
+    "email": "mairie-frouville95@wanadoo.fr"
+  },
+  {
+    "name": "Gadancourt",
+    "email": "mairie-gadancourt@orange.fr"
+  },
+  {
+    "name": "Garges les gonesse",
+    "email": "communication@villedegarges.com"
+  },
+  {
+    "name": "Genainville",
+    "email": "mairie-genainville@wanadoo.fr"
+  },
+  {
+    "name": "Genicourt",
+    "email": "mairie.genicourt@wanadoo.fr"
+  },
+  {
+    "name": "Gonesse",
+    "email": "contact@villaeroport.org"
+  },
+  {
+    "name": "Goussainville",
+    "email": "maire@ville-goussainville.fr"
+  },
+  {
+    "name": "Gouzangrez",
+    "email": "mairiedegouzangrez@orange.fr"
+  },
+  {
+    "name": "Grisy les platres",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Groslay",
+    "email": "assistante_du_maire@mairie-groslay.fr"
+  },
+  {
+    "name": "Guiry en vexin",
+    "email": "mairie.guiry-en-vexin@wanadoo.fr"
+  },
+  {
+    "name": "Haravilliers",
+    "email": "commune.haravilliers@orange.fr"
+  },
+  {
+    "name": "Haute isle",
+    "email": "mairie-hauteisle@wanadoo.fr"
+  },
+  {
+    "name": "Hedouville",
+    "email": "mairie-hedouville@wanadoo.fr"
+  },
+  {
+    "name": "Herblay",
+    "email": "mairie@herblay.fr"
+  },
+  {
+    "name": "Herouville",
+    "email": "mairie@herouville-en-vexin.net"
+  },
+  {
+    "name": "Hodent",
+    "email": "mairie.hodent@orange.fr"
+  },
+  {
+    "name": "Jagny sous bois",
+    "email": "mairie.jagny-sous-bois@wanadoo.fr"
+  },
+  {
+    "name": "Jouy le moutier",
+    "email": "secretariatgeneral@jouylemoutier.fr"
+  },
+  {
+    "name": "Labbeville",
+    "email": "mairie@labbeville.fr"
+  },
+  {
+    "name": "La chapelle en vexin",
+    "email": "la-chapelle-en-vexin@wanadoo.fr"
+  },
+  {
+    "name": "La frette sur seine",
+    "email": "mairie@ville-la-frette95.fr"
+  },
+  {
+    "name": "La roche guyon",
+    "email": "mairie.larocheguyon@wanadoo.fr"
+  },
+  {
+    "name": "Lassy",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Le bellay en vexin",
+    "email": "mairie.bellay@wanadoo.fr"
+  },
+  {
+    "name": "Le heaulme",
+    "email": "mairie.le.heaulme@cegetel.net"
+  },
+  {
+    "name": "Le mesnil aubry",
+    "email": "mairie.mesnil-aubry@wanadoo.fr"
+  },
+  {
+    "name": "Le perchay",
+    "email": "mairie.leperchay@wanadoo.fr"
+  },
+  {
+    "name": "Le plessis bouchard",
+    "email": "mairie@ville-le-plessis-bouchard.fr"
+  },
+  {
+    "name": "Le plessis gassot",
+    "email": "le.plessis.gassot@wanadoo.fr"
+  },
+  {
+    "name": "Le plessis luzarches",
+    "email": "mairieplessisluzarches@orange.fr"
+  },
+  {
+    "name": "Le thillay",
+    "email": "p.bezillot@mairie-le-thillay.fr"
+  },
+  {
+    "name": "L isle adam",
+    "email": "m.martin@ville-isle-adam.fr"
+  },
+  {
+    "name": "Livilliers",
+    "email": "mairie-de-livilliers@wanadoo.fr"
+  },
+  {
+    "name": "Longuesse",
+    "email": "mairie.longuesse@orange.fr"
+  },
+  {
+    "name": "Louvres",
+    "email": "communication@ville-louvres.fr"
+  },
+  {
+    "name": "Luzarches",
+    "email": "v.coquillard@luzarches.net"
+  },
+  {
+    "name": "Maffliers",
+    "email": "mairie-maffliers@wanadoo.fr"
+  },
+  {
+    "name": "Magny en vexin",
+    "email": "mairie@magny-en-vexin.fr"
+  },
+  {
+    "name": "Mareil en france",
+    "email": "mairie.mareil.france@wanadoo.fr"
+  },
+  {
+    "name": "Margency",
+    "email": "info@mairie-margency.fr"
+  },
+  {
+    "name": "Marines",
+    "email": "mairie.marines@wanadoo.fr"
+  },
+  {
+    "name": "Marly la ville",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Maudetour en vexin",
+    "email": "mairie.maudetour@wanadoo.fr"
+  },
+  {
+    "name": "Menouville",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Menucourt",
+    "email": "communication@menucourt.fr"
+  },
+  {
+    "name": "Meriel",
+    "email": "accueil.mairie@ville-de-meriel.fr"
+  },
+  {
+    "name": "Mery sur oise",
+    "email": "services.administratifs@merysuroise.fr"
+  },
+  {
+    "name": "Moisselles",
+    "email": "mairie.moisselles@orange.fr"
+  },
+  {
+    "name": "Montgeroult",
+    "email": "mairie-de-montgeroult@wanadoo.fr"
+  },
+  {
+    "name": "Montigny les cormeilles",
+    "email": "communication@ville-montigny95.fr"
+  },
+  {
+    "name": "Montlignon",
+    "email": "mairie.montlignon@wanadoo.fr"
+  },
+  {
+    "name": "Montmagny",
+    "email": "communication@ville-montmagny.fr"
+  },
+  {
+    "name": "Montmorency",
+    "email": "directiongenerale@ville-montmorency.fr"
+  },
+  {
+    "name": "Montreuil sur epte",
+    "email": "mairiemontreuilept@orange.fr"
+  },
+  {
+    "name": "Montsoult",
+    "email": "mairie-montsoult@wanadoo.fr"
+  },
+  {
+    "name": "Mours",
+    "email": "secretaire.mairie.mours@wanadoo.fr"
+  },
+  {
+    "name": "Moussy",
+    "email": "mairie.de.st.denis.catus@wanadoo.fr"
+  },
+  {
+    "name": "Nerville la foret",
+    "email": "mairie-nerville95@wanadoo.fr"
+  },
+  {
+    "name": "Nesles la vallee",
+    "email": "pontenay@wanadoo.fr"
+  },
+  {
+    "name": "Neuilly en vexin",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Neuville sur oise",
+    "email": "affgenerales@neuville-sur-oise.fr"
+  },
+  {
+    "name": "Nointel",
+    "email": "nointel-mairie@wanadoo.fr"
+  },
+  {
+    "name": "Noisy sur oise",
+    "email": "mairie.de.noisy.sur.oise@wanadoo.fr"
+  },
+  {
+    "name": "Nucourt",
+    "email": "mairie.nucourt@wanadoo.fr"
+  },
+  {
+    "name": "Omerville",
+    "email": "Mairie.omerville@orange.fr"
+  },
+  {
+    "name": "Osny",
+    "email": "communication@ville-osny.fr"
+  },
+  {
+    "name": "Parmain",
+    "email": "communication@ville-parmain.fr"
+  },
+  {
+    "name": "Persan",
+    "email": "mairie@ville-persan.fr"
+  },
+  {
+    "name": "Pierrelaye",
+    "email": "mairie@ville-pierrelaye.fr"
+  },
+  {
+    "name": "Piscop",
+    "email": "mairie.piscop@wanadoo.fr"
+  },
+  {
+    "name": "Pontoise",
+    "email": "mairie@ville-pontoise.fr"
+  },
+  {
+    "name": "Presles",
+    "email": "mairie@ville-presles.fr"
+  },
+  {
+    "name": "Puiseux en france",
+    "email": "vsimil@roissy-online.com"
+  },
+  {
+    "name": "Puiseux pontoise",
+    "email": "mairie.puiseux-pontoise.95@wanadoo.fr"
+  },
+  {
+    "name": "Roissy en france",
+    "email": "accueil@ville-roissy95.fr"
+  },
+  {
+    "name": "Ronquerolles",
+    "email": "mairie.ronquerolles95@wanadoo.fr"
+  },
+  {
+    "name": "Sagy",
+    "email": "mairie.sagy@wanadoo.fr"
+  },
+  {
+    "name": "Saint brice sous foret",
+    "email": "info@saintbrice95.fr"
+  },
+  {
+    "name": "Saint clair sur epte",
+    "email": "mairie-stclairsurepte@orange.fr"
+  },
+  {
+    "name": "Saint cyr en arthies",
+    "email": "mairie.stcyrenarthies@wanadoo.fr"
+  },
+  {
+    "name": "Saint gervais",
+    "email": "mairie.saintgervais@wanadoo.fr"
+  },
+  {
+    "name": "Saint gratien",
+    "email": "info@mairie-saintgratien.fr"
+  },
+  {
+    "name": "Saint leu la foret",
+    "email": "mairie@saint-leu-la-foret.fr"
+  },
+  {
+    "name": "Saint martin du tertre",
+    "email": "mairiesaintmartindutertre@wanadoo.fr"
+  },
+  {
+    "name": "Saint ouen l aumone",
+    "email": "courrier@ville-saintouenlaumone.fr"
+  },
+  {
+    "name": "Saint prix",
+    "email": "communication@saintprix.fr"
+  },
+  {
+    "name": "Saint witz",
+    "email": "mairie@saint-witz.fr"
+  },
+  {
+    "name": "Sannois",
+    "email": "secretariat.general@sannois.org"
+  },
+  {
+    "name": "Santeuil",
+    "email": "mairie@santeuil95.fr"
+  },
+  {
+    "name": "Sarcelles",
+    "email": "comsarcelles@yahoo.fr"
+  },
+  {
+    "name": "Seraincourt",
+    "email": "mairie.seraincourt95@wanadoo.fr"
+  },
+  {
+    "name": "Seugy",
+    "email": "mairie.seugy@wanadoo.fr"
+  },
+  {
+    "name": "Soisy sous montmorency",
+    "email": "mairie@soisy-sous-montmorency.fr"
+  },
+  {
+    "name": "Survilliers",
+    "email": "vincent@roissy-online.com"
+  },
+  {
+    "name": "Taverny",
+    "email": "mairie@ville-taverny.fr"
+  },
+  {
+    "name": "Themericourt",
+    "email": "mairie.themericourt@wanadoo.fr"
+  },
+  {
+    "name": "Theuville",
+    "email": "mairie.theuville.mts@wanadoo.fr"
+  },
+  {
+    "name": "Us",
+    "email": "mairie.us.95@wanadoo.fr"
+  },
+  {
+    "name": "Vallangoujard",
+    "email": "secretariat@vallangoujard.fr"
+  },
+  {
+    "name": "Valmondois",
+    "email": "mairievalmondois@gmail.com"
+  },
+  {
+    "name": "Vaudherland",
+    "email": "email inconnu"
+  },
+  {
+    "name": "Vaureal",
+    "email": "communication@mairie-vaureal.fr"
+  },
+  {
+    "name": "Vemars",
+    "email": "sandrine_ravenel@yahoo.fr"
+  },
+  {
+    "name": "Vetheuil",
+    "email": "mairiedevetheuil@orange.fr"
+  },
+  {
+    "name": "Viarmes",
+    "email": "ville-viarmes@wanadoo.fr"
+  },
+  {
+    "name": "Vienne en arthies",
+    "email": "mairie.viennearthies@wanadoo.fr"
+  },
+  {
+    "name": "Vigny",
+    "email": "mairie.vigny@wanadoo.fr"
+  },
+  {
+    "name": "Villaines sous bois",
+    "email": "mairie@villaines-sous-bois.fr"
+  },
+  {
+    "name": "Villeron",
+    "email": "accueilvilleron@roissy-online.com"
+  },
+  {
+    "name": "Villers en arthies",
+    "email": "mairie.villers@free.fr"
+  },
+  {
+    "name": "Villiers adam",
+    "email": "mairie.villiersadam@wanadoo.fr"
+  },
+  {
+    "name": "Villiers le bel",
+    "email": "secretariatgeneral@ville-villiers-le-bel.fr"
+  },
+  {
+    "name": "Villiers le sec",
+    "email": "mairie.villiers-le-sec@wanadoo.fr"
+  },
+  {
+    "name": "Wy dit joli village",
+    "email": "mairie.wy-dit-joli-village@wanadoo.fr"
+  }
+]
